@@ -7,7 +7,7 @@ public class Lkk {
 		StringBuilder a = new StringBuilder();
 		a.append("Hallow World");
 		System.out.println(a);
-
+		a.append("test");
 
 	}
 
